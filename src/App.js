@@ -15,10 +15,7 @@ function App() {
   return (
     <div className="App">
       mandan njan vasu gundoos thooti
-      <button
-        style={{ backgroundColor: "rebeccapurple" }}
-        onClick={karthikclick}
-      >
+      <button style={{ backgroundColor: "red" }} onClick={karthikclick}>
         clkartcick
       </button>
       {products.length != 0 &&
