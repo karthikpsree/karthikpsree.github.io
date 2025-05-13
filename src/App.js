@@ -5,7 +5,7 @@ import styled from "styled-components";
 import Mandan from "./Mandan";
 
 const Main = styled.div`
-  background-color: yellow;
+  background-color: cyan;
   .red {
     background-color: green;
   }
