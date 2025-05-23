@@ -37,7 +37,7 @@ function App() {
 
   return (
     <Main>
-      mandan njan vasu gundoos thooti pupoos
+      TeStInG If ThIs WoRkS !
       <button className="red" onClick={abatton}>
         clickme
       </button>
